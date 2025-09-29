@@ -1,7 +1,7 @@
 
-# Custom Desktop PC Build – Group X
+# Custom Desktop PC Build – Group 2
 **Course**: CSARCH2
-**Section**: ___
+**Section**: S21
 **Group Members**:
 - Cabato, Marxandrea Diane G.
 - Dumaran, Marc Ian A.
