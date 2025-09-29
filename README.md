@@ -3,11 +3,11 @@
 **Course**: CSARCH2
 **Section**: ___
 **Group Members**:
-- Name 1
-- Name 2
-- Name 3
-- Name 4
-- Name 5
+- Cabato, Marxandrea Diane G.
+- Dumaran, Marc Ian A.
+- Gumapos, Mikhos Cedric D.
+- Lozada, Job D.
+- Quijano, Jan Philip Alexandre
 ---
 ## 1. Introduction
 Briefly describe your project build (1–2 paragraphs).
