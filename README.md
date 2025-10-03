@@ -83,7 +83,7 @@ We also realized the importance of compatibility checking (socket, clearance, PS
 
 ---
 ## 7. Video pitch
-- Your video link here
+- https://www.youtube.com/watch?v=jHEy3wALCKU
 ## 8. References
 - [PC Express](https://pcx.com.ph)
 - [Data Blitz](https://ecommerce.datablitz.com.ph/)
