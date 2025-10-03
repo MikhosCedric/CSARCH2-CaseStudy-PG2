@@ -88,4 +88,4 @@ We also realized the importance of compatibility checking (socket, clearance, PS
 - [PC Express](https://pcx.com.ph)
 - [Data Blitz](https://ecommerce.datablitz.com.ph/)
 - [DynaQuest PC](https://dynaquestpc.com/)
-- [PCPartPicker build link](link)
+- [PCPartPicker build link](https://pcpartpicker.com/user/Khosmic/saved/b3YTzy)
